@@ -4,11 +4,11 @@
       "X-Author": "vladar21",
       "Access-Control-Allow-Origin": "*"
     },
-    "/login/": {
+    "/login/login.html": {
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     },
-    "/sample/": {
+    "/sample/sample.html": {
       "Content-Type": "text/plain; charset=UTF-8"
     }
   }
